@@ -1,0 +1,17 @@
+.navbar-expand-lg {
+	background-color: #efefef;
+}
+
+ul.navbar-nav {
+	margin-left: 81%;
+}
+
+#carouselExampleIndicators {
+	border: 3px solid #564040;
+}
+
+div.container {
+	font-family: ge-body;
+	color: #515151;
+	padding: 1.2%
+}
